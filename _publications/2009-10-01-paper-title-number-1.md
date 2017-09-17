@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Efficient protocols for private database queries"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 21-7-2017
+venue: '31st Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 17)'
+paperurl: 'http://mayank0403.github.io/files/paper1.pdf'
+citation: 'Saha, T.K., Mayank, Koshiba, T.:Efficient protocols for private database queries. In: Livraga G., Zhu S. (eds) Data and Applications Security and Privacy XXXI. DBSec 2017. LNCS 10359, pp. 337-348. Springer, Cham (2017)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
