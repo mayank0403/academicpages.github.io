@@ -11,21 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech in Computer Science and Engineering, Indian Institute of Technology (BHU), Varanasi, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Visiting Researcher
+  * Tokyo Institute of Technology, Tokyo, Japan 
+  * Topic: Cryptocurrency protocols and Scorex
+  * Tasks completed: Actively contributed to the Scorex project (my contributions are available on the Github page of the
+project) - A modular cryptocurrency framework by Input-Output Hong Kong, China, and extensively
+investigated the existing proof-of-work and proof-of-stake cryptocurrencies.
+  * Supervisor: Professor Keisuke Tanaka
+  
+* Summer 2017: Visiting Researcher
+  * Saitama University, Japan 
+  * Topic: Secure and efficient protocols for threshold queries over encrypted databases
+  * Tasks completed: Developed an efficient secure integer comparison protocol to facilitate secure and practical threshold
+queries over encrypted databases using Somewhat Homomorphic Encryption and a multiparty secure
+sorting method. Implemented complex cryptographic protocols and a Fully Homomorphic Encryption
+scheme based on Ring-LWE.
+  * Supervisor: Professor Takeshi Koshiba
+  
+* Winter 2016-17: Visiting Researcher
+  * Saitama University, Japan 
+  * Topic: Querying over encrypted databases using Somewhat Homomorphic Encryption
+  * Tasks completed: Developed an encrypted database system supporting equality queries and implemented secure comparison
+protocols in C++ using PARI library, based on somewhat homomorphic encryption.
+  * Supervisor: Professor Takeshi Koshiba
+  
+* August 2017 - present: Remote Research Project
+  * OpenMined, UK 
+  * Topic: Decentralized AI
+  * Tasks running: Working on C++ implementations (with PARI library) of core Cryptographic functions to support prediction
+tasks on encrypted Neural Networks.
+  * Tasks completed: Already pushed initial APIs for the homomorphic repositories of PyAono, PyBV, PyYASHE which can all be found on the GitHub page of OpenMined Organization.
+  * Supervisor: Andrew Trask (Ph.D student at UOxford)
+  
+ * Summer 2016: Research Internship
+  * SAG, Defense Research and Development Organization, New Delhi 
+  * Topic: Development and analysis of Public Key Cryptography
+  * Tasks completed: Implemented Public Key Cryptography Schemes, Integer Factorization algorithms and extensively studied Number
+Field Sieve with focus on CADO-NFS software.
+  * Supervisor:  Dr. Saibal Pal
   
 Skills
 ======
@@ -42,18 +69,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 3 different slack teams
