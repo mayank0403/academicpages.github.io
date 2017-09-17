@@ -72,7 +72,7 @@ analytics:
 # Site Author
 author:
   name             : "Mayank"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Enthusiastic Cryptographer and a senior year undergraduate student majoring in Computer Science and Engineering from Indian Institute of Technology, Varanasi, India"
   location         : "Presently : India"
   employer         :
@@ -103,8 +103,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  math.stackexchange : "https://math.stackexchange.com/users/328237/mayank"
-  dblp : "http://dblp.uni-trier.de/pers/hd/m/Mayank_0002:"
+  math.stackexchange : https://math.stackexchange.com/users/328237/mayank
+  dblp : http://dblp.uni-trier.de/pers/hd/m/Mayank_0002:
 
 
 # Reading Files
