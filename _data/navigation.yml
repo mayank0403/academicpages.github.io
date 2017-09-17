@@ -7,4 +7,5 @@ main:
     url: /publications/    
     
   - title: "CV"
-    url: /files/Mayank_CV_Main.pdf
+    url: /cv/
+    #url: /files/Mayank_CV_Main.pdf
