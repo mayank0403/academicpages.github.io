@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Academics"
-    url: /publications/
+    url: /cv/
 
   - title: "Publications"
     url: /publications/   
     
   - title: "CV"
-    url: /cv/
+    url: /files/Mayank_CV_Main.pdf
