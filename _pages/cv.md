@@ -63,7 +63,7 @@ secure logistic regression using somewhat homomorphic encryption (using SEAL lib
   
 * Jan - Oct 2016: Project
   * Indian Institute of Technology (BHU), Varanasi
-  * Topic: • Part-of-Speech Tagging of Bhojpuri language data
+  * Topic: Part-of-Speech Tagging of Bhojpuri language data
   * Tasks running: Implemented and analyzed the results of POS Tagging of Bhojpuri language data using MaxEnt,
 CRF++, SVMStruct and Trigrams & Tags. A performance comparison was also done with Hindi language
 for each of the taggers.
