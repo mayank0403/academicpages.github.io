@@ -61,29 +61,16 @@ secure logistic regression using somewhat homomorphic encryption (using SEAL lib
   * Future Tasks: Deploying a secure online learning system facilitating encrypted querying and prediction.
   * Supervisor:  Professor K. K. Shukla
   
-* Jan 2016 - present: Bachelor Thesis project
+* Jan - Oct 2016: Project
   * Indian Institute of Technology (BHU), Varanasi
-  * Topic: Secure Machine Learning
-  * Tasks running: Working on encrypted neural networks based on somewhat homomorphic encryption and already implemented
-secure logistic regression using somewhat homomorphic encryption (using SEAL library).
-  * Future Tasks: Deploying a secure online learning system facilitating encrypted querying and prediction.
-  * Supervisor:  Professor K. K. Shukla
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Topic: • Part-of-Speech Tagging of Bhojpuri language data
+  * Tasks running: Implemented and analyzed the results of POS Tagging of Bhojpuri language data using MaxEnt,
+CRF++, SVMStruct and Trigrams & Tags. A performance comparison was also done with Hindi language
+for each of the taggers.
+  * Supervisor: Dr. Anil Kumar Singh
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 3 different slack teams
