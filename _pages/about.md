@@ -19,4 +19,4 @@ Check out this <a href = "https://www.youtube.com/watch?v=jKKafEBx5P4">demo</a> 
 
 Interesting post by a project colleague on using MPC for machine learning - <a href = "https://mortendahl.github.io/2017/04/17/private-deep-learning-with-mpc/">here</a>!
 
-Check out my <a href = "https://github.com/mayank0403/mayank0403.github.io/files/twinscoin.pdf">presentation</a> on TwinsCoin - a modular cryptocurrency framework, originally authored by Alexander Chepurnoy, my colleague from TokyoTech project, presented by me at TokyoTech.
+Check out my <a href = "https://mayank0403.github.io/files/twinscoin.pdf">presentation</a> on TwinsCoin - a modular cryptocurrency framework, originally authored by Alexander Chepurnoy, my colleague from TokyoTech project, presented by me at TokyoTech.
