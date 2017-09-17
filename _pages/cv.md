@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academics"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech in Computer Science and Engineering, Indian Institute of Technology (BHU), Varanasi, 2018 (expected)
 
-Work experience
+Experience
 ======
 * Summer 2017: Visiting Researcher
   * Tokyo Institute of Technology, Tokyo, Japan 
@@ -47,12 +47,27 @@ tasks on encrypted Neural Networks.
   * Tasks completed: Already pushed initial APIs for the homomorphic repositories of PyAono, PyBV, PyYASHE which can all be found on the GitHub page of OpenMined Organization.
   * Supervisor: Andrew Trask (Ph.D student at UOxford)
   
- * Summer 2016: Research Internship
+* Summer 2016: Research Internship
   * SAG, Defense Research and Development Organization, New Delhi 
   * Topic: Development and analysis of Public Key Cryptography
-  * Tasks completed: Implemented Public Key Cryptography Schemes, Integer Factorization algorithms and extensively studied Number
-Field Sieve with focus on CADO-NFS software.
+  * Tasks completed: Implemented Public Key Cryptography Schemes, Integer Factorization algorithms and extensively studied Number Field Sieve with focus on CADO-NFS software.
   * Supervisor:  Dr. Saibal Pal
+
+* Jan 2016 - present: Bachelor Thesis project
+  * Indian Institute of Technology (BHU), Varanasi
+  * Topic: Secure Machine Learning
+  * Tasks running: Working on encrypted neural networks based on somewhat homomorphic encryption and already implemented
+secure logistic regression using somewhat homomorphic encryption (using SEAL library).
+  * Future Tasks: Deploying a secure online learning system facilitating encrypted querying and prediction.
+  * Supervisor:  Professor K. K. Shukla
+  
+* Jan 2016 - present: Bachelor Thesis project
+  * Indian Institute of Technology (BHU), Varanasi
+  * Topic: Secure Machine Learning
+  * Tasks running: Working on encrypted neural networks based on somewhat homomorphic encryption and already implemented
+secure logistic regression using somewhat homomorphic encryption (using SEAL library).
+  * Future Tasks: Deploying a secure online learning system facilitating encrypted querying and prediction.
+  * Supervisor:  Professor K. K. Shukla
   
 Skills
 ======
