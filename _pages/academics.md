@@ -69,6 +69,17 @@ CRF++, SVMStruct and Trigrams & Tags. A performance comparison was also done wit
 for each of the taggers.
   * Supervisor: Dr. Anil Kumar Singh
 
+Teaching Experience
+======
+* CSE241N - Artificial Intelligence Fall'18
+  * Tutor/Teaching Assistant Fall semester 2018. I am taking the laboratory sessions and designing the serial assignments for sophomore students taking the course.
+  
+* CSE-291: Exploratory Project Fall'18
+  * Undergraduate Project mentor Fall semester 2018. I am mentoring a sophomore students in his project on Cryptography, particularly homomorphic encryption. He is implementing the YASHE scheme in C++.
+  
+* CSE-392: UG Project Fall'18
+  * Undergraudate Project mentor Fall semester 2018. I am mentoring 2 junior undergraduate students in their thesis project on the fascinating intersection Cryptography and Machine Learning.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
