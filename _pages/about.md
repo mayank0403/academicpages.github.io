@@ -16,6 +16,8 @@ Having worked with both cryptography and machine learning, building a system tha
 
 ### News!
 
+I am taking the laboratory classes of sophomore students for the course of Artificial Intelligence.
+
 We are hosting the annual coding festival - <a href = "http://codefest.tech/">Codefest</a>, of the <a href = "http://www.iitbhu.ac.in/cse/">Department of Computer Science and Engineering, IIT (BHU), Varanasi</a> from 22-24th September 2017. I have personally set up 5-10 questions spanning cryptographic principles and cryptocurrency protocols for Capture the Flag event. Please register before the event starts on 22nd September 00:00 IST. Awesome challenging crypto single-sentence-answer questions waiting for you there.
 
 Interested in reading about zkSNARKS? Check this awesome blog <a href = "https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b">post</a> out, along with <a href = "https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/">this</a>!
