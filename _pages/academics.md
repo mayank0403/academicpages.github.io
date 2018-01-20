@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.Tech in Computer Science and Engineering, Indian Institute of Technology (BHU), Varanasi, 2018 (expected)
+  * Current GPA: 8.92/10.
+  * Got a 10/10 GPA in Spring Semester 2017.
 
 Experience
 ======
