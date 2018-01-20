@@ -8,3 +8,11 @@ paperurl: 'http://mayank0403.github.io/files/paper1.pdf'
 citation: 'Saha, T.K., Mayank, Koshiba, T.:Efficient protocols for private database queries. In: Livraga G., Zhu S. (eds) Data and Applications Security and Privacy XXXI. DBSec 2017. LNCS 10359, pp. 337-348. Springer, Cham (2017)'
 
 ---
+title: "Private Comparison Protocol and Its Application to Range Queries"
+collection: publications
+permalink: /publication/paper2
+date: 10-10-2017
+venue: '10th International Conference on Internet and Distributed Computing System (IDCS 2017), Fiji'
+paperurl: 'http://mayank0403.github.io/files/paper2.pdf'
+
+---
