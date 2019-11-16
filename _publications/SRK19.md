@@ -1,5 +1,5 @@
 ---
-title: "CrypTFlow: Secure TensorFlow Inference"
+title: "Efficient Private Database Queries using Ring-LWE Somewhat Homomorphic Encryption"
 collection: publications
 permalink: /publication/SRK19
 date: 03-11-2019
