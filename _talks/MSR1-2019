@@ -1,0 +1,10 @@
+---
+title: "Yet Another Compiler for Active Security or: Efficient MPC Over Arbitrary Rings by Damgård et al."
+collection: talks
+type: "Presentation"
+permalink: /talks/MSR1-2019
+venue: "Cryptography Reading Group, Microsoft Research India, Bangalore"
+date: 2019-02-26
+location: "Bangalore India"
+---
+I presented [>this<](https://github.com/mayank0403/mayank0403.github.io/files/MSR1.pdf) paper.
