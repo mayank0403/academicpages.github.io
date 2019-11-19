@@ -7,4 +7,4 @@ venue: "Cryptography Reading Group, Tanaka Lab, Tokyo Institute of Techonology"
 date: 2017-06-3
 location: "Tokyo, Japan"
 ---
-PPT available [> here](https://github.com/mayank0403/mayank0403.github.io/blob/master/files/TwinsCoin.pdf)
+PPT available [> here](https://github.com/mayank0403/mayank0403.github.io/blob/master/files/TwinsCoin-PPT.pdf)
