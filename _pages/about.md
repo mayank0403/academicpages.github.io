@@ -19,8 +19,6 @@ As a part of my Bachelor Thesis supervised by Prof. K. K. Shukla, I am working o
 
 Having worked with both cryptography and machine learning, building a system that facilitates both learning and prediction on encrypted datasets is the idea that most intrigues me. With present Ring-LWE based homomorphic schemes, the task of training even "just good or average" models becomes really time consuming far from being practical. Though recently Microsoft Research published their idea of performing prediction over encrypted queries using pre-trained model called CryptoNets. There are some other good and efficient solutions to secure machine learning like using secret sharing and other multi-party computation ideas. I have been working with a project called OpenMined, which envisions the same hope for the future of machine learning. I am working on creating implementations (major contributor) of core-cryptographic functions for the project and building Python APIs (check out my GitHub for the repos <a href = "https://github.com/OpenMined/PyAono">PyAono</a>, <a href = "https://github.com/OpenMined/PyBV">PyBV</a>, <a href = "https://github.com/OpenMined/PyYashe">PyYashe</a>) for the same. I have also been involved in the research that we are conducting inside this project pondering over the cryptographic challenges that we have to overcome as we proceed. Anyone who is interested in the project, please contact me and check out my GitHub.
 
-A word of appreciation from Andrew Trask about my work can be found <a href = "https://github.com/mayank0403/mayank0403.github.io/blob/master/files/OpenMined.pdf">here</a>.
-
 ### News!
 
 I am taking the laboratory classes of sophomore students for the course of Artificial Intelligence.
