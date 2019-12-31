@@ -1,13 +1,4 @@
----
-layout: archive
-title: "Academicsss"
-permalink: /academics/
-author_profile: false
-redirect_from:
-  - /acadss
----
 
-{% include base_path %}
 
 Education
 ======
