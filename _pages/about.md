@@ -9,15 +9,11 @@ redirect_from:
 ---
 
 ### Updates!
-I have been working as a Research Fellow at Microsoft Research Bangalore working in cryptography, mainly MPC and secure hardware (SGX), and compilers. I have been the major contributor of <a href = "https://github.com/mpc-msri/EzPC">crypTFlow</a> project and we have recently written <a href = "https://eprint.iacr.org/2019/1049.pdf">this</a> paper on our work.
+I have been working as a Research Fellow at Microsoft Research Bangalore working in cryptography, mainly MPC and secure hardware (SGX), and compilers. I have been a major contributor of <a href = "https://github.com/mpc-msri/EzPC">crypTFlow</a> project and we have recently written <a href = "https://eprint.iacr.org/2019/1049.pdf">this</a> paper on our work.
 
-I am applying for PhD programs in cryptography in Fall of 2019.
+I am applying for PhD programs in cryptography/security for Fall 2020.
 
-I am Mayank, a senior year undergraduate student majoring in Computer Science and Engineering from Indian Institute of Technology, Banaras Hindu University, Varanasi, India. Have been drinking the crypto elixir for more than 1.5 years now. Recently, I have been involved in homomorphic encryption and it's practical intersection with database management systems and machine learning. I have also worked extensively on packing methods for somewhat homomorphic schemes that enable us to pack input data to a valid and distinct element from the plaintext domain. Apart from this, these summers I worked at TokyoTech on Proof-of-Stake cryptocurrencies as well as hybrid and modular cryptocurrency frameworks like <a href = "https://github.com/ScorexFoundation/Scorex">Scorex</a>. As far as public key encryption and integer factorization is concerned, I have done some implementations and studied through this domain passing through the Number Field Sieve (used for solving integer factorization and discrete logarithm problems) algorithm as well. 
-
-As a part of my Bachelor Thesis supervised by Prof. K. K. Shukla, I am working on a secure online learning protocol with encrypted querying.
-
-Having worked with both cryptography and machine learning, building a system that facilitates both learning and prediction on encrypted datasets is the idea that most intrigues me. With present Ring-LWE based homomorphic schemes, the task of training even "just good or average" models becomes really time consuming far from being practical. Though recently Microsoft Research published their idea of performing prediction over encrypted queries using pre-trained model called CryptoNets. There are some other good and efficient solutions to secure machine learning like using secret sharing and other multi-party computation ideas. I have been working with a project called OpenMined, which envisions the same hope for the future of machine learning. I am working on creating implementations (major contributor) of core-cryptographic functions for the project and building Python APIs (check out my GitHub for the repos <a href = "https://github.com/OpenMined/PyAono">PyAono</a>, <a href = "https://github.com/OpenMined/PyBV">PyBV</a>, <a href = "https://github.com/OpenMined/PyYashe">PyYashe</a>) for the same. I have also been involved in the research that we are conducting inside this project pondering over the cryptographic challenges that we have to overcome as we proceed. Anyone who is interested in the project, please contact me and check out my GitHub.
+I graduated from the Indian Institute of Technology, Banaras Hindu University (IIT BHU), Varanasi, India with majors in Computer Science and Engineering in May 2018.
 
 ### News!
 
