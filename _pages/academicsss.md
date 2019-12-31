@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Academics"
+title: "Academicsss"
 permalink: /academics/
-author_profile: true
+author_profile: false
 redirect_from:
-  - /acads
+  - /acadss
 ---
 
 {% include base_path %}
