@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Updates!
-I have been working as a Research Fellow at Microsoft Research Bangalore working in cryptography, mainly MPC and secure hardware (SGX), and compilers. I have been a major contributor of <a href = "https://github.com/mpc-msri/EzPC">crypTFlow</a> project and we have recently written <a href = "https://eprint.iacr.org/2019/1049.pdf">this</a> paper on our work.
+I have been working as a Research Fellow at Microsoft Research Bangalore working in cryptography, mainly MPC and secure hardware (SGX), and compilers. I have been a major contributor of <a href = "https://github.com/mpc-msri/EzPC">CrypTFlow</a> project and we have recently written <a href = "https://eprint.iacr.org/2019/1049.pdf">this</a> paper on our work.
 
 I am applying for PhD programs in cryptography/security for Fall 2020.
 
